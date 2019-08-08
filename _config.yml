@@ -28,7 +28,9 @@ about_profile_image: resume/assets/profile.jpg
 
 
 about_content: | # this will include new lines to allow paragraphs
-  Hello! I enjoy developing software, building and learning new things. At university I was vice president of the MacEwan computer science club. as vice president I helped 
+  Hello! I enjoy developing software, building and learning new things!
+  
+  At university I was vice president of the MacEwan computer science club. as vice president I helped 
   students get engaged in the computer science club, raising the club membership from around 10 to over 100 people in a couple months. My
   involvement encouraged other club members to put in 100% effort, and together we organized many talks and events.  
   
