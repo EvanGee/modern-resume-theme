@@ -1,9 +1,34 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: OpenEthereumWallet
+  link: https://evangiese.tk/open-ethereum-wallet/
+  github: https://github.com/EvanGee/OpenEthereumWallet
   quote: >
-    Short overview of the project (optional)
+    OpenEthereumWallet is a wallet app that lets you store keys and smart contracts, and allows users to interact with a 
+    variety of block-chain applications using a simple rest API. It has a mobile app GUI, but can operate without a GUI.
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    This is a project I started because I wanted to have an easier way to interface with the block-chain than using Geth, or a browser as a wallet.
+  
+  # Project template
+- layout: top-middle
+  name: multi-level feedback queue simulation
+  link: https://learn-mlfq.herokuapp.com/
+  quote: >
+    This is a simulation of a multilevel feedback queue.
+  description: | # this will include new lines to allow paragraphs
+    This project was built to aid students in learning how a MLFQ functions. We wrote a paper on it which is published in 
+    '2017 8th IEEE Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON)'
+
+  # Project template
+- layout: top-middle
+  name: The Consultative Committee for Space Data Systems (CCSDS) File delivery protocol
+  github: https://github.com/EvanGee/CCSDS_FileDeliveryProtocol
+  quote: >
+    This is a file transfer protocol written in C that adheres to CCSDS standards
+  description: | # this will include new lines to allow paragraphs
+    This project is still being worked on, it adheres to strict space design standards for file transfer. The only other app like this one is part of NASA's software suite.
+
+
+  
+  
+
