@@ -1,14 +1,15 @@
 # Project template
 - layout: top-middle
-  name: OpenEthereumWallet
+  name: Open Ethereum Wallet
   link: https://evangiese.tk/open-ethereum-wallet/
   github: https://github.com/EvanGee/OpenEthereumWallet
   quote: >
-    OpenEthereumWallet is a wallet app that lets you store keys and smart contracts, and allows users to interact with a 
-    variety of block-chain applications using a simple rest API. It has a mobile app GUI, but can operate without a GUI.
+    Open Ethereum Wallet is a wallet app that lets you store keys and easily interact with smart contracts.
+
   description: | # this will include new lines to allow paragraphs
-    This is a project I started because I wanted to have an easier way to interface with the block-chain than using Geth, or a browser as a wallet.
-  
+    OpenEthereumWallet is a wallet app that lets users easily interact with a 
+    variety of block-chain applications using a simple rest API. It has a mobile app GUI, but can operate without a GUI.
+
   # Project template
 - layout: top-middle
   name: multi-level feedback queue simulation
@@ -26,7 +27,8 @@
   quote: >
     This is a file transfer protocol written in C that adheres to CCSDS standards
   description: | # this will include new lines to allow paragraphs
-    This project is still being worked on, it adheres to strict space design standards for file transfer. The only other app like this one is part of NASA's software suite.
+    This project is still being worked on, it adheres to strict space design standards for file transfer. 
+    The only other app like this one is part of NASA's software suite.
 
 
   
