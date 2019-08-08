@@ -24,7 +24,9 @@ linkedin_username: evan-giese-47192bba
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile.jpg
+about_profile_image: resume/images/profile.jpg
+
+
 about_content: | # this will include new lines to allow paragraphs
   Hello, I'm primarily a software developer. At university I was vice president of the MacEwan computer science club. as vice president I helped 
   get students engaged in the computer science club, raising the club membership from around 10 to over 100 people in a couple months. Furthermore, I organized
