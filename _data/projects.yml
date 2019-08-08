@@ -29,7 +29,7 @@
     This is a file transfer protocol written in C that adheres to CCSDS standards
   description: | # this will include new lines to allow paragraphs
     This project is still being worked on, it adheres to strict space design standards for file transfer. 
-    The only other app like this one is part of NASA's software suite. Written in C.
+    The only other app like this one is part of NASA's software suite.
 
 
   
