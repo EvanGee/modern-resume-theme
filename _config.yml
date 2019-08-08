@@ -29,11 +29,12 @@ about_profile_image: resume/assets/profile.jpg
 
 about_content: | # this will include new lines to allow paragraphs
   Hello, I'm primarily a software developer. At university I was vice president of the MacEwan computer science club. as vice president I helped 
-  get students engaged in the computer science club, raising the club membership from around 10 to over 100 people in a couple months. Furthermore, I organized
-  meetings and club sponsered computer science events/talks. 
+  get students engaged in the computer science club, raising the club membership from around 10 to over 100 people in a couple months. My
+  involvment encouraged other students to put in 100% effort by leading passionately.  
   
-  I volunteer at the University of Alberta helping the Alberta Sat team build there satelite. I have written a file transfer protocol that we plan
-  to use to send and receive files from it. 
+  I volunteer at the University of Alberta helping the Alberta Sat team build a satelite. In addition to writing a file transfer protocol, 
+  I help design and integrate drivers, design software, and analyse potential opensource alternatives. My work is helping the software team 
+  acheive their goals of getting to space.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
