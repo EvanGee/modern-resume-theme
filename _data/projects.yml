@@ -18,7 +18,8 @@
     This is a simulation of a multilevel feedback queue.
   description: | # this will include new lines to allow paragraphs
     This project was built to aid students in learning how a MLFQ functions. We wrote a paper on it which is published in 
-    '2017 8th IEEE Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON)'
+    '2017 8th IEEE Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON)' you can read it here
+    https://ieeexplore.ieee.org/document/8117201
 
   # Project template
 - layout: top-middle
@@ -28,7 +29,7 @@
     This is a file transfer protocol written in C that adheres to CCSDS standards
   description: | # this will include new lines to allow paragraphs
     This project is still being worked on, it adheres to strict space design standards for file transfer. 
-    The only other app like this one is part of NASA's software suite.
+    The only other app like this one is part of NASA's software suite. Written in C.
 
 
   
