@@ -3,10 +3,10 @@
   <div class="row clearfix">
     {%- if site.about_profile_image -%}
       <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-        <span class="profile-img" style="background-image: url({{ resume/images/profile.jpg | relative_url }})" />
+        <span class="profile-img" style="background-image: 'resume/images/profile.jpg' " />
       </div>
     {%- endif -%}
-    <div class="{{ 'col-xs-12 ' }}{%- if resume/images/profile.jpg -%}col-sm-8 col-md-9 col-print-12{%- endif -%}">
+    <div class="{{ 'col-xs-12 ' }}{%- if site.about_profile_image -%}col-sm-8 col-md-9 col-print-12{%- endif -%}">
       {{ site.about_content | strip | markdownify }}
     </div>
   </div>
