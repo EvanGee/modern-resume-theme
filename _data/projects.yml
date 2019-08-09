@@ -7,12 +7,12 @@
     Open Ethereum Wallet is a wallet app that lets you store keys and easily interact with smart contracts.
 
   description: | # this will include new lines to allow paragraphs
-    OpenEthereumWallet is a wallet app that lets users easily interact with a 
+    Open Ethereum Wallet is a wallet app that lets users easily interact with a 
     variety of block-chain applications using a simple rest API. It has a mobile app GUI, but can operate without a GUI.
 
   # Project template
 - layout: top-middle
-  name: multi-level feedback queue simulation
+  name: multi-level feedback queue (MLFQ) simulation
   link: https://learn-mlfq.herokuapp.com/
   quote: >
     This is a simulation of a multilevel feedback queue.
