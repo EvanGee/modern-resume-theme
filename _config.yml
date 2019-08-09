@@ -29,6 +29,7 @@ about_profile_image: resume/assets/profile.jpg
 
 about_content: | # this will include new lines to allow paragraphs
   How many programmers does it take to screw in a light bulb? 
+
   *none.. we don't address hardware issues.* 
   
   (but I can learn!)
