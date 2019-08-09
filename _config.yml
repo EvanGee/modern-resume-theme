@@ -26,12 +26,8 @@ linkedin_username: evan-giese-47192bba
 # about_title: About Me (Use this to override about section title)
 about_profile_image: resume/assets/profile.jpg
 
-left:   How many programmers does it take to screw in a light bulb? 
-  
-  *none.. we don't address hardware issues.* 
-  
-  (but I can learn!)
-  
+under_pic: Jokes
+
 about_content: | # this will include new lines to allow paragraphs
 
   At university I was vice president of the MacEwan computer science club. as vice president I helped 
